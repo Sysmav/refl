@@ -1,1 +1,3 @@
 Git creates all the file necessary to start keep tracking
+StArea is intermediate between wdir and rep
+tells what will be committed briefly
