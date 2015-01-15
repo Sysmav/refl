@@ -1,0 +1,11 @@
+I think it's useful to spot the differences between 2 files
+so I'll be able to find typo
+and what may cause bugs or crash
+Store the entire history allows me to add and remove
+functionality on my will
+Git is code-oriented and in that case you usually have
+related files, GDocs isn't intended for coding, but
+for general purpouse, separately files fit better
+Able to explore without fear to break
+I'd like to use Git to work and control my Android projects
+as well as my website, CSS can be tricky

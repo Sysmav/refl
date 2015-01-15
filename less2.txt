@@ -1,0 +1,1 @@
+Git creates all the file necessary to start keep tracking
