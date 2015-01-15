@@ -4,3 +4,6 @@ tells what will be committed briefly
 Branch are useful when you have to try a different version
 of your project, for example change a language or try
 new feature or even add a mode
+Merge will result in something that include both the features
+In diagram will operate on branch
+Automatic  merge can make mistakes but can also save lots of time
