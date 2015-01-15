@@ -1,3 +1,6 @@
 Git creates all the file necessary to start keep tracking
 StArea is intermediate between wdir and rep
 tells what will be committed briefly
+Branch are useful when you have to try a different version
+of your project, for example change a language or try
+new feature or even add a mode
