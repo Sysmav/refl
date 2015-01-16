@@ -1,0 +1,3 @@
+It may be very useful work on GitHub when you are coworking with other on a single project
+It's also very good for open source projects
+One day I'd like to contribute to something great like JQuery or similar
